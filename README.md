@@ -6,7 +6,7 @@
 **Paper**:
 https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/blob/main/VKR_TroshinOf.pdf
 
-![Channel drawio (4)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/fcdd2e3c-a3d1-49eb-b4f0-3a2aac3e3386)
+![Channel drawio (4)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/82229eeb-5600-483c-9786-e47ed4fb0780)
 
 **Navier-Stokes Equation**
 
@@ -41,8 +41,7 @@ s_{21} & s_{22}
 In this paper, instead of the continuity equation, the velocity is calculated from the current function.
 $$[u, v, w]=\nabla \times [0, 0, \psi]$$
 
-![uvp_step](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/f9023aa2-a48f-4ebc-a6fa-b01a5d2a20d6)
-![image](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/efea5f60-1976-4333-a5ba-44a652594106)
+![uvp_step](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/23ed764b-f30b-41e4-9ba4-88b0531b8912)
 
 
-![Arhitecture drawio (7)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/42d07f2f-f958-41e8-9579-2b65690d4256)
+![White_Arhitecture drawio (1)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/f7ce7014-2b9e-4d37-9a71-9ea708ba8004)

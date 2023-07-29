@@ -2,6 +2,8 @@
 **Paper from what the idea came from:** https://arxiv.org/pdf/2002.10558.pdf
 
 **Original Implementation (Tensorflow 1):** https://github.com/Raocp/PINN-laminar-flow
+**Paper**:
+https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/blob/main/VKR_TroshinOf.pdf
 
 ![Channel drawio](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/197aa973-5e96-463e-ba8e-dd19f53dc32d)
 

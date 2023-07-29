@@ -6,7 +6,7 @@
 **Paper**:
 https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/blob/main/VKR_TroshinOf.pdf
 
-![Channel drawio](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/197aa973-5e96-463e-ba8e-dd19f53dc32d)
+![Channel drawio (4)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/fcdd2e3c-a3d1-49eb-b4f0-3a2aac3e3386)
 
 **Navier-Stokes Equation**
 

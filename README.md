@@ -42,6 +42,7 @@ In this paper, instead of the continuity equation, the velocity is calculated fr
 $$[u, v, w]=\nabla \times [0, 0, \psi]$$
 
 ![uvp_step](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/f9023aa2-a48f-4ebc-a6fa-b01a5d2a20d6)
-![image](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/f947ca14-314c-4e87-ade9-41b1b8c17651)
+![image](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/efea5f60-1976-4333-a5ba-44a652594106)
+
 
 ![Arhitecture drawio (7)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/42d07f2f-f958-41e8-9579-2b65690d4256)

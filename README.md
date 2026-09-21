@@ -5,6 +5,7 @@
 
 **Paper**:
 https://elib.spbstu.ru/dl/3/2023/vr/vr23-4068.pdf/info
+
 https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/blob/main/VKR_TroshinOf.pdf
 
 ![Channel drawio (4)](https://github.com/sleshworld/PINNs-Laminar-Flow-Sudden-Construction-Channel/assets/36676116/82229eeb-5600-483c-9786-e47ed4fb0780)
